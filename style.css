@@ -11,7 +11,7 @@ body {
 }
 
 header {
-    background: rgba(51, 51, 51, 0.8); /* Darker header background for readability */
+    background: rgba(51, 51, 51, 0.8); 
     color: #fff;
     padding: 1rem 0;
 }
@@ -70,7 +70,7 @@ nav ul li a {
     left: 0;
     width: 100%;
     height: 100%;
-    background: rgba(0, 0, 0, 0.5); /* Slightly more transparent overlay */
+    background: rgba(0, 0, 0, 0.5); 
     display: flex;
     align-items: center;
     justify-content: center;
@@ -79,7 +79,7 @@ nav ul li a {
 #home .intro {
     max-width: 800px;
     color: #fff;
-    z-index: 1; /* Ensures text is above the overlay */
+    z-index: 1; 
 }
 
 #home .intro h1 {
@@ -96,7 +96,7 @@ nav ul li a {
 }
 
 .btn {
-    background: #FF6F61; /* Eye-catching color for button */
+    background: #FF6F61; 
     color: #fff;
     padding: 1rem 2rem;
     text-decoration: none;
@@ -107,7 +107,7 @@ nav ul li a {
 }
 
 .btn:hover {
-    background: #FF4B3A; /* Darker shade on hover */
+    background: #FF4B3A; 
 }
 
 section {
@@ -124,7 +124,7 @@ section h2 {
 }
 
 section .content {
-    background: rgba(255, 255, 255, 0.9); /* Slightly transparent background */
+    background: rgba(255, 255, 255, 0.9); 
     padding: 2rem;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -178,7 +178,7 @@ form button {
 }
 
 footer {
-    background: rgba(51, 51, 51, 0.8); /* Darker footer background for readability */
+    background: rgba(51, 51, 51, 0.8); 
     color: #fff;
     text-align: center;
     padding: 1rem 0;
